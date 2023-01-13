@@ -1,0 +1,9 @@
+a=5
+a+=a
+print("add",a)
+a-=4
+print("sub",a)
+a*=6
+print("mul",a)
+a/=2
+print("div",a)
